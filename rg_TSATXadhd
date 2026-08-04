@@ -1,0 +1,5 @@
+./ldsc.py \
+--ref-ld-chr /home/physiogenlab/ldsc/eur_w_ld_chr/ \
+--out rg_TSATMoksnesXadhd \
+--rg TSP.sumstats.sumstats.gz,ADHD.sumstats.sumstats.gz \
+--w-ld-chr /home/physiogenlab/ldsc/eur_w_ld_chr/
